@@ -15,7 +15,7 @@ Living to learn new knowledge every day... and I have been working hard for this
 
 ## Technologies
 
-<img  src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL"  width="35"  height="35"  style="display:inline-block; vertical-align:middle;"/> ![MySQL](https://img.icons8.com/?id=UFXRpPFebwa2&size=35)![MongoDb](https://img.icons8.com/color/35/mongodb.png)![Firebase](https://img.icons8.com/?id=62452&size=35&color=000000)[SupaBase](https://img.icons8.com/color/35/supabase.png)![Git](https://img.icons8.com/color/35/git.png)![Gitlab](https://img.icons8.com/color/35/gitlab.png)![Github](https://img.icons8.com/?id=52539&size=35)
+<img  src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL"  width="35"  height="35"  style="display:inline-block; vertical-align:middle;"/> ![MySQL](https://img.icons8.com/?id=UFXRpPFebwa2&size=35) ![MongoDb](https://img.icons8.com/color/35/mongodb.png) ![Firebase](https://img.icons8.com/?id=62452&size=35&color=000000) ![SupaBase](https://img.icons8.com/color/35/supabase.png) ![Git](https://img.icons8.com/color/35/git.png) ![Gitlab](https://img.icons8.com/color/35/gitlab.png) ![Github](https://img.icons8.com/?id=52539&size=35)
 
 ## Tools & SWs
 
@@ -27,9 +27,9 @@ Living to learn new knowledge every day... and I have been working hard for this
 
 ## GitHub Summary
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Mahjoub&layout=compact&theme=gruvbox&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bahaamoqayad17&layout=compact&theme=gruvbox&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammed-Mahjoub&count_private=true&show_icons=true&theme=gruvbox)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bahaamoqayad17&count_private=true&show_icons=true&theme=gruvbox)
 
 ### Github Profile Views
 
