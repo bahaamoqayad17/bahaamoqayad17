@@ -1,6 +1,8 @@
 # `console.log('Hi there, I'm Bahaa!'); ` <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="35px" alt="Hi!">
 
-[![Facebook](https://img.shields.io/badge/Instagram-%231877F2.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/bahaamoqayad17/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bahaamoqayad17/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%230077B5.svg?&style=flat-square&logo=Whatsapp&logoColor=white)](https://wa.me/message/+972598623000)
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
+[![Facebook](https://img.shields.io/badge/Instagram-%231877F2.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/bahaamoqayad17/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bahaamoqayad17/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/message/+972598623000)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=00FF00&size=24&width=500&lines=Software+Developer;Web+Developer;Mobile+Developer;Desktop+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
 
